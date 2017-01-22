@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					2162BE5F1E2E57A400424633 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = AK924X6LJX;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AK924X6LJX;
 				INFOPLIST_FILE = pickerview/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = huuhoang.pickerview;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AK924X6LJX;
 				INFOPLIST_FILE = pickerview/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = huuhoang.pickerview;
@@ -299,6 +302,7 @@
 				2162BE741E2E57A400424633 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
